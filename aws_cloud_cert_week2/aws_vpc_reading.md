@@ -12,7 +12,7 @@
 
 - `A subnet is a section of a VPC , that can contain resources such as Amazon EC2 instances`
 
-# <ins> Inertnet Gateway </ins> #
+# <ins> Internet Gateway </ins> # #
 
 - `To allow public traffic ``from the internet to access your VPC,` you `attach an internet gateway to the VPC.`
 

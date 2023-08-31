@@ -122,7 +122,7 @@
 
         - Even though the `hardware being` same from `one region to another region` but their `pricing being different to operate the region`
 
-        - The `hardware component on Brazil San Paulo` being higher due to `Tax Rules in Beazil` , which can be `50% more to run` compared to the `oregano united state`
+        - The `hardware component on Brazil San Paulo` being higher due to `Tax Rules in Brazil` , which can be `50% more to run` compared to the `oregano united state`
 
         - then in that case we can choose `some other region where we can get it for cheap`
 

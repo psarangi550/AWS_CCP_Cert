@@ -4,9 +4,9 @@
 
 - Whenever we are selecting the `AWS Region` one of the `Key Business Factor` is to have `close proximity to the customer location`
 
-- But `whatif we have customer all around the World or Customer Location City where the AWS region is not available`
+- But `what if we have customer all around the World or Customer Location City where the AWS region is not available`
 
-- Like  in the `coffee shop example` we have `Lets suppose our coffee shop in a new location / new city which is doing good` but if we want to `serve customer in different Area` then we don't need to create the `entire headquater infrastructure` rather we can serve using the `satellite Store` in order to `deliver customer`
+- Like  in the `coffee shop example` we have `Lets suppose our coffee shop in a new location / new city which is doing good` but if we want to `serve customer in different Area` then we don't need to create the `entire headquarter infrastructure` rather we can serve using the `satellite Store` in order to `deliver customer`
 
 - similarly for IT solution if we have `customer based on mumbai` and `but the application/ data / content` present in `tokyo region` then we need not have to `customer request for the data from tokyo each time`
 
